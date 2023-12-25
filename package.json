@@ -26,7 +26,7 @@
   "devDependencies": {
     "@googlemaps/js-api-loader": "^1.16.1",
     "@googlemaps/markerclusterer": "^2.2.3",
-    "@openapitools/openapi-generator-cli": "^2.6.0",
+    "@openapitools/openapi-generator-cli": "^2.5.2",
     "@rushstack/eslint-patch": "^1.2.0",
     "@tsconfig/node18": "^2.0.1",
     "@types/google.maps": "^3.53.2",
